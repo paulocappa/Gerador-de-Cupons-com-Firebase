@@ -10,7 +10,7 @@
 
 1 - Clone este repositório
 
-2 - Na pasta onde você clonou o repositório execute o comando `yarn` (será necessário instalar o yarn caso não o tenha) tanto na pasta backend quanto na frontend para instalar as dependências do repositório
+2 - Execute o comando `yarn` (será necessário instalar o yarn caso não o tenha) tanto na pasta backend quanto na frontend para instalar as dependências do repositório
 
 3 - No firebase, inicie um novo projeto e ative o `Realtime Database`
 
